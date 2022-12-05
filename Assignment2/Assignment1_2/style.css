@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/*Style for this specific task will change once the sign up page is adjusted to the rest of the project*/
+* {
+    background-color: lightblue;
+}
+
+header {
+    border-style: solid;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.flexbox-container {
+    border-style: solid;
+    border-width: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.flexbox-item {
+    text-align: left;
+}
+
+.spacer {
+    height: 20px;
+}
+
+.checkbox {
+    text-align: center;
+    border-style: dashed;
+    margin-left: 20px;
+    margin-right: 900px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.text {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.flexbox-container2 {
+    border-style: double;
+    border-width: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.RegisterButton {
+    font-size: x-large;
+    text-align: center;
+}
+
+#result {
+    font-family: 'Montserrat', sans-serif;
+    color: red;
+}
+
+#quality {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#agree_message {
+    font-family: 'Montserrat', sans-serif;
+    color: red;
+    font: bold;
+}
+
+
+.map {
+    margin: 3px 0;
+}
+
+.map i {
+    display: inline;
+    /* margin-left: -23px; */ 
+    cursor: pointer;
+    color: #3f4044;
+}
+
+.mapShow {
+    display: none;
+}
+
+#country-lab {
+    margin-bottom: 5px;
+  }
